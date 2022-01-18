@@ -1,0 +1,11 @@
+.Blackandwhite {
+    color: white;
+    background-color: black;
+}
+.yellow {
+background-color: rgba(180, 180, 68, 0.884);
+}
+.Blackandwhite, .yellow {
+    font-size: 28px;
+    font-family: "Halveetica", "Times New Roman", sans-serif;
+}
